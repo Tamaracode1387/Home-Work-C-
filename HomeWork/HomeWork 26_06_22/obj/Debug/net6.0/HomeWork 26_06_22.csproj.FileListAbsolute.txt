@@ -1,0 +1,15 @@
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\HomeWork 26_06_22.csproj.AssemblyReference.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\HomeWork 26_06_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\HomeWork 26_06_22.AssemblyInfoInputs.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\HomeWork 26_06_22.AssemblyInfo.cs
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\HomeWork 26_06_22.csproj.CoreCompileInputs.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\bin\Debug\net6.0\HomeWork 26_06_22.exe
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\bin\Debug\net6.0\HomeWork 26_06_22.deps.json
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\bin\Debug\net6.0\HomeWork 26_06_22.runtimeconfig.json
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\bin\Debug\net6.0\HomeWork 26_06_22.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\bin\Debug\net6.0\HomeWork 26_06_22.pdb
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\HomeWork 26_06_22.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\refint\HomeWork 26_06_22.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\HomeWork 26_06_22.pdb
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\HomeWork 26_06_22.genruntimeconfig.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Семинар)\C#\HomeWork\HomeWork 26_06_22\obj\Debug\net6.0\ref\HomeWork 26_06_22.dll
